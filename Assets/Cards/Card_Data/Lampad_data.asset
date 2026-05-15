@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Card_data
   card_name: Lampad
   description: Torch Bearer Nymph
-  health: 20
-  cost: 4
-  damage: 3
+  health: 15
+  cost: 2
+  damage: 4
   sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}

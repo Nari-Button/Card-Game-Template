@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Card_data
   card_name: Ordead
   description: Mountain Nymphs, Companions of Artemis
-  health: 20
+  health: 15
   cost: 4
   damage: 3
   sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
